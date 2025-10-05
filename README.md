@@ -1,2 +1,21 @@
-# Aro-Ace
-An Aromantic Asexual styled VS Code Color Theme
+<p align="center">
+<img alt="'Aro Ace' Logo" src="aroace.png"></img>
+</p>
+
+<h1 align="center"><i>Aro Ace Theme</i></h1>
+<p align="center">A Aro-Ace Styled VS Code Theme</p>
+
+## About
+
+_Aro Ace_ is an Aromantic Asexual Styled VS Code Theme developed and designed to you by an Aromantic Asexual. This theme is inspired by the the [Spades](https://github.com/redpwilliams/Spades) theme from [redpwilliams](https://github.com/redpwilliams) which is in return inspired by the Microsoft Palenight theme.
+
+## Supported Languages
+
+- Javascript (.js, .jsx)
+- Typescript (.ts, .tsx)
+- HTML
+- CSS
+- JSON
+- Java
+
+**Have fun with this one 🧡💛🤍🩵💙**

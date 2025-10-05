@@ -1,0 +1,54 @@
+{
+    "name": "aroace",
+    "displayName": "Aro Ace",
+    "description": "An Aromantic Asexual styled VS Code Color Theme",
+    "version": "1.0.0",
+    "publisher": "Sockenlord",
+    "icon": "aroace.png",
+    "license": "MIT",
+    "author": {
+        "name": "Sockenlord",
+        "email": "phillip.jucky@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Sockenlord/Aro-Ace"
+    },
+    "bugs": {
+        "url": "https://github.com/Sockenlord/Aro-Ace/issues",
+        "email": "phillip.jucky@gmail.com"
+    },
+    "homepage": "https://github.com/Sockenlord/Aro-Ace/blob/master/README.md/#readme",
+    "galleryBanner": {
+        "color": "#3b3e50",
+        "theme": "dark"
+    },
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "Themes",
+        "Dark Theme",
+        "color-theme",
+        "Aro",
+        "Ace",
+        "AroAce",
+        "Aromantic",
+        "Asexual",
+        "Asexuality",
+        "Aromanticism",
+        "Pride"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Aro Ace",
+                "uiTheme": "vs-dark",
+                "path": "./themes/AroAce-color-theme.json"
+            }
+        ]
+    }
+}
