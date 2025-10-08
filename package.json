@@ -48,6 +48,11 @@
                 "label": "Aro Ace",
                 "uiTheme": "vs-dark",
                 "path": "./themes/AroAce-color-theme.json"
+            },
+            {
+                "label": "Aro Ace Light",
+                "uiTheme": "vs",
+                "path": "./themes/AroAceLight-color-theme.json"
             }
         ]
     }

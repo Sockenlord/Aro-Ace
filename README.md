@@ -4,6 +4,7 @@
 
 <h1 align="center"><i>Aro Ace Theme</i></h1>
 <p align="center">A dark Aro-Ace Styled VS Code Theme</p>
+<p align="center">Also includes a Light variant: "Aro Ace Light"</p>
 <img alt="'Aro Ace' Example" src="aroace-example.png"></img>
 
 ## About
