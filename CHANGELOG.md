@@ -4,6 +4,10 @@ All notable changes to the "Aro Ace" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.2.2] - 2025-10-10
+
+- Fixed spelling mistake in the README.md file
+
 ## [1.2.1] - 2025-10-10
 
 - Changed AroAce High Contrast Theme

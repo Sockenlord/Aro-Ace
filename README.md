@@ -10,7 +10,7 @@
 
 ## About
 
-_Aro Ace_ is an Aromantic Asexual Styled VS Code Theme developed and designed to you by an Aromantic Asexual. This theme is inspired by the the [Spades](https://github.com/redpwilliams/Spades) theme from [redpwilliams](https://github.com/redpwilliams) which is in return inspired by the Microsoft Palenight theme.
+_Aro Ace_ is an Aromantic Asexual Styled VS Code Theme developed and designed to you by an Aromantic Asexual. This theme is inspired by the [Spades](https://github.com/redpwilliams/Spades) theme from [redpwilliams](https://github.com/redpwilliams) which is in return inspired by the Microsoft Palenight theme.
 
 ## Supported Languages
 
