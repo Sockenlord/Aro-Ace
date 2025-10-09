@@ -5,6 +5,7 @@
 <h1 align="center"><i>Aro Ace Theme</i></h1>
 <p align="center">A dark Aro-Ace Styled VS Code Theme</p>
 <p align="center">Also includes a Light variant: "Aro Ace Light"</p>
+<p align="center">And a High Contrast variant: "Aro Ace High Contrast"</p>
 <img alt="'Aro Ace' Example" src="aroace-example.png"></img>
 
 ## About
@@ -19,5 +20,14 @@ _Aro Ace_ is an Aromantic Asexual Styled VS Code Theme developed and designed to
 - CSS
 - JSON
 - Java
+
+## Supported Themes
+
+- Dark
+    - Aro Ace
+- Light
+    - Aro Ace Light
+- High Contrast
+    - Aro Ace High Contrast
 
 **Have fun with this one 🧡💛🤍🩵💙**

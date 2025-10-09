@@ -4,6 +4,22 @@ All notable changes to the "Aro Ace" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.2.0] - 2025-10-10
+
+- Added: AroAce High Contrast Theme
+	- New high contrast theme optimized for accessibility while maintaining the AroAce color palette
+	- Features pure black background (#000000) with enhanced contrast and bold styling
+	- Improved error and warning visibility with pure red (#ff0000) and bright yellow (#eccd00)
+	- Consistent border usage (#7c7c7c) for better UI element separation
+- Changed: AroAce Theme
+	- Removed semanticClass
+	- Added unexpected Bracket color
+	- Added quick input colors
+- Changed: AroAce Light Theme
+	- Removed semanticClass
+	- Added comments for structuring
+	- Added missing bracket colors
+
 ## [1.1.0] - 2025-10-08
 
 - Added: AroAce Light Theme
