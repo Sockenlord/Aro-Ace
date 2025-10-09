@@ -4,6 +4,17 @@ All notable changes to the "Aro Ace" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.2.1] - 2025-10-10
+
+- Changed AroAce High Contrast Theme
+	- Removed duplicate token colors
+	- Restructured Keywords, Storage and Contrast tokens
+- Changed AroAce Theme
+	- Fixed spelling mistake
+- Changed AroAce Light Theme
+	- Fixed spelling mistake
+
+
 ## [1.2.0] - 2025-10-10
 
 - Added: AroAce High Contrast Theme

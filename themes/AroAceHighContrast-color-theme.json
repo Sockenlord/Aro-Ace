@@ -291,30 +291,6 @@
             }
         },
         {
-            "name": "Variables",
-            "scope": [
-                "variable",
-                "string constant.other.placeholder",
-                "source"
-            ],
-            "settings": {
-                "foreground": "#ffffff"
-            }
-        },
-        {
-            "name": "Colors and Entities",
-            "scope": [
-                "constant.other.color",
-                "punctuation.definition.entity",
-                "constant.character.entity",
-                "punctuation.definition.template-expression",
-                "punctuation.section.tag.twig"
-            ],
-            "settings": {
-                "foreground": "#62aedc"
-            }
-        },
-        {
             "name": "Invalid",
             "scope": [
                 "invalid",
@@ -323,6 +299,22 @@
             "settings": {
                 "foreground": "#ff0000",
                 "fontStyle": "bold underline"
+            }
+        },
+        {
+            "name": "Keyword, Storage, Constant",
+            "scope": [
+                "keyword",
+                "storage.type",
+                "storage.modifier",
+                "constant.language",
+                "support.constant",
+                "constant.character",
+                "constant.escape"
+            ],
+            "settings": {
+                "foreground": "#62aedc",
+                "fontStyle": "bold"
             }
         },
         {
@@ -345,22 +337,6 @@
             ],
             "settings": {
                 "foreground": "#e28c00"
-            }
-        },
-        {
-            "name": "Keywords and Storage",
-            "scope": [
-                "keyword",
-                "storage.type",
-                "storage.modifier",
-                "constant.language",
-                "support.constant",
-                "constant.character",
-                "constant.escape"
-            ],
-            "settings": {
-                "foreground": "#62aedc",
-                "fontStyle": "bold"
             }
         },
         {
