@@ -5,7 +5,6 @@
         "philbschmidt <phillip.jucky@gmail.com>"
     ],
     "type": "dark",
-    "semanticClass": "palenight",
     "colors": {
         // Generics
         "contrastBorder": "#7c7c7c",
@@ -123,6 +122,7 @@
         "editorBracketHighlight.foreground4": "#a66eff",
         "editorBracketHighlight.foreground5": "#a7d379",
         "editorBracketHighlight.foreground6": "#3da542",
+        "editorBracketHighlight.unexpectedBracket.foreground": "#ff0000",
         "editorBracketPairGuide.activeBackground1": "#e28c00",
         "editorBracketPairGuide.activeBackground2": "#eccd00",
         "editorBracketPairGuide.activeBackground3": "#62aedc",
@@ -191,6 +191,11 @@
         // Picker Groups
         "pickerGroup.foreground": "#62aedc",
         "pickerGroup.border": "#62aedc",
+        // Quick Input
+        "quickInput.background": "#2C3043",
+        "quickInput.foreground": "#ffffff",
+        "quickInputList.focusBackground": "#203856",
+        "quickInputList.focusForeground": "#f1f5fb",
         // Terminal Colors
         "terminal.ansiWhite": "#ffffff",
         "terminal.ansiBlack": "#676E95",
