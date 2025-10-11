@@ -6,9 +6,9 @@
 
 [![Version](https://img.shields.io/visual-studio-marketplace/v/philbschmidt.aroace?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=philbschmidt.aroace) [![Installs](https://img.shields.io/visual-studio-marketplace/i/philbschmidt.aroace?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=philbschmidt.aroace) [![Downloads](https://img.shields.io/visual-studio-marketplace/d/philbschmidt.aroace?style=for-the-badge&label=Downloads)](https://marketplace.visualstudio.com/items?itemName=philbschmidt.aroace)
 
-A dark Aro-Ace Styled VS Code Theme
-Also includes a Light variant: "Aro Ace Light"
-And a High Contrast variant: "Aro Ace High Contrast"
+A dark Aro-Ace Styled VS Code Theme  
+Also includes a Light variant: "Aro Ace Light"  
+And a High Contrast variant: "Aro Ace High Contrast"  
 
 </div>
 
