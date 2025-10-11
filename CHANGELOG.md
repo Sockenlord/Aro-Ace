@@ -4,9 +4,17 @@ All notable changes to the "Aro Ace" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.2.3] - 2025-10-11
+
+- Changed [README.md](README.md)
+	- Added Badges for version, installs and downloads
+	- Changed html code to mostly markdown code
+- Changed images
+	- Moved images to a new images folder
+
 ## [1.2.2] - 2025-10-10
 
-- Fixed spelling mistake in the README.md file
+- Fixed spelling mistake in the [README.md](README.md) file
 
 ## [1.2.1] - 2025-10-10
 

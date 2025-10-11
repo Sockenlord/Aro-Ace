@@ -2,9 +2,9 @@
     "name": "aroace",
     "displayName": "Aro Ace",
     "description": "An Aromantic Asexual styled VS Code Color Theme",
-    "version": "1.2.2",
+    "version": "1.2.3",
     "publisher": "philbschmidt",
-    "icon": "aroace.png",
+    "icon": "https://github.com/philbschmidt/Aro-Ace/raw/HEAD/images/aroace.png",
     "license": "MIT",
     "author": {
         "name": "Philipp Schmidt",

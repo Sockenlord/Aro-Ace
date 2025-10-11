@@ -1,12 +1,18 @@
-<p align="center">
-<img alt="'Aro Ace' Logo" src="aroace.png"></img>
-</p>
+<div align="center">
 
-<h1 align="center"><i>Aro Ace Theme</i></h1>
-<p align="center">A dark Aro-Ace Styled VS Code Theme</p>
-<p align="center">Also includes a Light variant: "Aro Ace Light"</p>
-<p align="center">And a High Contrast variant: "Aro Ace High Contrast"</p>
-<img alt="'Aro Ace' Example" src="aroace-example.png"></img>
+![Aro Ace Logo](https://github.com/philbschmidt/Aro-Ace/raw/HEAD/images/aroace.png)
+
+# *Aro Ace Theme*
+
+[![Version](https://img.shields.io/visual-studio-marketplace/v/philbschmidt.aroace?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=philbschmidt.aroace) [![Installs](https://img.shields.io/visual-studio-marketplace/i/philbschmidt.aroace?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=philbschmidt.aroace) [![Downloads](https://img.shields.io/visual-studio-marketplace/d/philbschmidt.aroace?style=for-the-badge&label=Downloads)](https://marketplace.visualstudio.com/items?itemName=philbschmidt.aroace)
+
+A dark Aro-Ace Styled VS Code Theme
+Also includes a Light variant: "Aro Ace Light"
+And a High Contrast variant: "Aro Ace High Contrast"
+
+</div>
+
+![Aro Ace Example](https://github.com/philbschmidt/Aro-Ace/raw/HEAD/images/aroace-example.png)
 
 ## About
 
