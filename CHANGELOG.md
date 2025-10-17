@@ -4,6 +4,19 @@ All notable changes to the "Aro Ace" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.2.4] - 2025-10-17
+
+- Added: [CONTRIBUTING.md](CONTRIBUTING.md)
+	- Added contribution guidelines
+	- Added color palette with Aro-Ace, Aromantic, and Asexual flag colors
+	- Added SVG color swatches for accurate color preview
+	- Added detailed instructions for adding new theme variants
+- Changed: [README.md](README.md)
+	- Added `cacheSeconds=3600` parameter to all badges for 1-hour caching
+	- Added link to Contributing Guidelines
+- Changed: `.vscodeignore`
+	- Excluded `images/swatches/**` from VSIX package (GitHub-only assets)
+
 ## [1.2.3] - 2025-10-11
 
 - Changed [README.md](README.md)

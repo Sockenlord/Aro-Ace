@@ -4,7 +4,7 @@
 
 # *Aro Ace Theme*
 
-[![Version](https://img.shields.io/visual-studio-marketplace/v/philbschmidt.aroace?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=philbschmidt.aroace) [![Installs](https://img.shields.io/visual-studio-marketplace/i/philbschmidt.aroace?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=philbschmidt.aroace) [![Downloads](https://img.shields.io/visual-studio-marketplace/d/philbschmidt.aroace?style=for-the-badge&label=Downloads)](https://marketplace.visualstudio.com/items?itemName=philbschmidt.aroace)
+[![Version](https://img.shields.io/visual-studio-marketplace/v/philbschmidt.aroace?style=for-the-badge&cacheSeconds=3600)](https://marketplace.visualstudio.com/items?itemName=philbschmidt.aroace) [![Installs](https://img.shields.io/visual-studio-marketplace/i/philbschmidt.aroace?style=for-the-badge&cacheSeconds=3600)](https://marketplace.visualstudio.com/items?itemName=philbschmidt.aroace) [![Downloads](https://img.shields.io/visual-studio-marketplace/d/philbschmidt.aroace?style=for-the-badge&label=Downloads&cacheSeconds=3600)](https://marketplace.visualstudio.com/items?itemName=philbschmidt.aroace)
 
 A dark Aro-Ace Styled VS Code Theme  
 Also includes a Light variant: "Aro Ace Light"  
@@ -35,5 +35,9 @@ _Aro Ace_ is an Aromantic Asexual Styled VS Code Theme developed and designed to
     - Aro Ace Light
 - High Contrast
     - Aro Ace High Contrast
+
+## Contributing
+
+Contributions are welcome! See the [Contributing Guidelines](https://github.com/philbschmidt/Aro-Ace/blob/main/CONTRIBUTING.md) for more information.
 
 **Have fun with this one 🧡💛🤍🩵💙**
