@@ -26,6 +26,10 @@ _Aro Ace_ is an Aromantic Asexual Styled VS Code Theme developed and designed to
 - CSS
 - JSON
 - Java
+- C
+- C++
+- C#
+- Python
 
 ## Supported Themes
 

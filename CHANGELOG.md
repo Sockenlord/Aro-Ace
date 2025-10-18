@@ -4,6 +4,11 @@ All notable changes to the "Aro Ace" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.2.5] - 2025-10-18
+
+- Added: Example files for C, C++, Python for theme testing
+- Changed: Number color in theme to distinguish from comments
+
 ## [1.2.4] - 2025-10-17
 
 - Added: [CONTRIBUTING.md](CONTRIBUTING.md)
