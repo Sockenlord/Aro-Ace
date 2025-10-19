@@ -4,6 +4,11 @@ All notable changes to the "Aro Ace" extension will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.2.6] - 2025-10-19
+
+- Changed: [README.md](README.md)
+	- Changed `cacheSeconds` to 6 hours instead of 1.
+
 ## [1.2.5] - 2025-10-18
 
 - Added: Example files for C, C++, Python for theme testing

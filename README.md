@@ -4,7 +4,7 @@
 
 # *Aro Ace Theme*
 
-[![Version](https://img.shields.io/visual-studio-marketplace/v/philbschmidt.aroace?style=for-the-badge&cacheSeconds=3600)](https://marketplace.visualstudio.com/items?itemName=philbschmidt.aroace) [![Installs](https://img.shields.io/visual-studio-marketplace/i/philbschmidt.aroace?style=for-the-badge&cacheSeconds=3600)](https://marketplace.visualstudio.com/items?itemName=philbschmidt.aroace) [![Downloads](https://img.shields.io/visual-studio-marketplace/d/philbschmidt.aroace?style=for-the-badge&label=Downloads&cacheSeconds=3600)](https://marketplace.visualstudio.com/items?itemName=philbschmidt.aroace)
+[![Version](https://img.shields.io/visual-studio-marketplace/v/philbschmidt.aroace?style=for-the-badge&cacheSeconds=21600)](https://marketplace.visualstudio.com/items?itemName=philbschmidt.aroace) [![Installs](https://img.shields.io/visual-studio-marketplace/i/philbschmidt.aroace?style=for-the-badge&cacheSeconds=21600)](https://marketplace.visualstudio.com/items?itemName=philbschmidt.aroace) [![Downloads](https://img.shields.io/visual-studio-marketplace/d/philbschmidt.aroace?style=for-the-badge&label=Downloads&cacheSeconds=21600)](https://marketplace.visualstudio.com/items?itemName=philbschmidt.aroace)
 
 A dark Aro-Ace Styled VS Code Theme  
 Also includes a Light variant: "Aro Ace Light"  
